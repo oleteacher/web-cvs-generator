@@ -3,7 +3,7 @@
 Web CSV Generator is a web-based random CSV data generator written in JavaScript.
 It allows to generate CSV files.
 
-Try the demo here: [https://extendsclass.com/csv-generator.html](https://extendsclass.com/csv-generator.html)
+Demo: https://oleteacher.github.io/web-cvs-generator/
 
 ![alt text](./image/preview.png "Preview")
 
